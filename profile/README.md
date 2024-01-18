@@ -1,6 +1,8 @@
-## Hi there 👋
+<p align="center"><a target="_blank" href="https://projectheberg.com"><img height="200" src="https://github.com/ProjectHeberg/.github/assets/68664518/9812a2db-7265-44b7-8817-81f5e394e01f"></a></p>
 
-This is the official GitHub page of Project Heberg!
+## About Project Heberg
+
+since May 2019, **Project Heberg** is a hosting provider which are providing services for the people in needs at low-cost prices.
 
 <!--
 
