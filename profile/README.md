@@ -2,7 +2,7 @@
 
 ## About Project Heberg
 
-Since May 2019, **Project Heberg** is a hosting provider that is providing to people a services of server-hosting at low-cost and support small and big project. We are doing such a things and acully even more by respecting your privacy and only having necessary cookies on us website and giving you a good help when needed whit us support, we are doing it also by making the services better and better everyday! 
+Since May 2019, **Project Heberg** is a hosting provider that provide to people a services of server-hosting at low-cost and support small and big project. We are doing such a things and even more by respecting your privacy and only having necessary cookies on us website and giving you a good help when needed whit us support, we are doing it also by making the services better and better everyday by listening to your feedbacks! 
 
 <!--
 
